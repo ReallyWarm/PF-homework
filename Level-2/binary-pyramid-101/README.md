@@ -1,7 +1,7 @@
 # Binary Pyramid 101
 
 > ***A programming problem from ...*** 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/kata/5596700a386158e3aa000011)
+[***Codewars.com***](https://www.codewars.com/kata/5596700a386158e3aa000011)
 ```
  1, 4  -->  1111010
 
