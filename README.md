@@ -11,4 +11,4 @@ Find a programming problem and write two different programs that can solve the p
   - [GCD and LCM](https://github.com/ReallyWarm/PF-homework/tree/main/Level-2/gcd-lcm)
   
 - Level-3 (array , function , various algorithms)
-  - [soon](#my-works)
+  - [RingRingRing! Game?](https://github.com/ReallyWarm/PF-homework/tree/main/Level-3/ring-game)
