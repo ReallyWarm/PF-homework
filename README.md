@@ -12,3 +12,4 @@ Find a programming problem and write two different programs that can solve the p
   
 - Level-3 (array , function , various algorithms)
   - [RingRingRing! Game?](https://github.com/ReallyWarm/PF-homework/tree/main/Level-3/ring-game)
+  - [Sort the odd](https://github.com/ReallyWarm/PF-homework/tree/main/Level-3/sort-the-odd)
